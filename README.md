@@ -1,4 +1,4 @@
-# Hi, I'm ZyoVex 👋
+# Hi, I'm ZyloVex 👋
 
 I’m a software developer who builds resilient services, automation workflows, and player-facing tools. My work spans **TypeScript/Node.js** backends and the **Java/Minecraft** ecosystem, with an emphasis on practical delivery under real-world constraints.
 
